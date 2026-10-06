@@ -15,6 +15,7 @@ import Phrasebook.Meta.VersionString
 import Phrasebook.AdditiveCombinatorics
 import Phrasebook.Asymptotics
 import Phrasebook.CliffordExterior
+import Phrasebook.Convexity
 import Phrasebook.CoveringSpaces
 import Phrasebook.DifferentialCalculus
 import Phrasebook.ErgodicMaps
@@ -68,6 +69,8 @@ This document has been last updated at *{now}[]* using Lean *{versionString}[]* 
 {include 1 Phrasebook.Asymptotics}
 
 {include 1 Phrasebook.CliffordExterior}
+
+{include 1 Phrasebook.Convexity}
 
 {include 1 Phrasebook.CoveringSpaces}
 
